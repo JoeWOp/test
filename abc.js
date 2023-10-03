@@ -1,4 +1,4 @@
-// hello
+// bye
 const isGame = () => {
   return window.location.href.startsWith("https://krunker.io/social.html") ? false : true;
 }
